@@ -2,3 +2,7 @@
 *.zip
 __MACOSX
 *.map
+
+/dist/*
+
+/node_modules/
