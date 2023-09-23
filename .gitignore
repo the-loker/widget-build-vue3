@@ -3,6 +3,7 @@
 __MACOSX
 *.map
 
-/dist/*
+/dist/widget.js
+/dist/bundle.css
 
 /node_modules/
